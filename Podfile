@@ -6,5 +6,6 @@ target 'CastVideoTest' do
   use_frameworks!
 
 pod 'google-cast-sdk', '~> 4.3'
+pod 'Kingfisher'
 
 end
